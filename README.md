@@ -44,7 +44,12 @@ This is an Android application developed as a part of an interview task. The app
 
 ## Screenshots
 
-Include screenshots of your app here.
+
+<img src="https://github.com/trigon27/Interview_task/assets/133361109/dfd558ab-d54d-4c7d-8b9b-6c69de2718fe" alt="Alt text" width="300"/>
+<img src="https://github.com/trigon27/Interview_task/assets/133361109/d7b87e17-4f22-4559-bc45-02be6fbbde7c" alt="Alt text" width="300"/>
+<img src="https://github.com/trigon27/Interview_task/assets/133361109/7e882400-8e73-4ce9-970b-ad8c49712aac" alt="Alt text" width="300"/>
+<img src="https://github.com/trigon27/Interview_task/assets/133361109/d224ed9a-ca2f-4980-9053-849d9e481cbb" alt="Alt text" width="300"/>
+
 
 ## Technologies Used
 
