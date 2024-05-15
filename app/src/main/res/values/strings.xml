@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">interview task</string>
+    <string name="title_activity_current_location">CurrentLocation</string>
+</resources>

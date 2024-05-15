@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Light theme -->
+    <style name="Base.Theme.InterveiwTask" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+
+    </style>
+
+    <!-- Dark theme -->
+    <style name="Base.Theme.InterveiwTask.Dark" parent="Theme.Material3.DayNight">
+        <!-- Customize your dark theme here. -->
+
+    </style>
+
+
+    <style name="Theme.InterveiwTask" parent="Base.Theme.InterveiwTask" />
+
+    <style name="Theme.InterveiwTask.NoActionBar" parent="Base.Theme.InterveiwTask">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+</resources>
